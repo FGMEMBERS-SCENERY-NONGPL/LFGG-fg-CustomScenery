@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!-- General settings for all Stow Maries materials -->
+<PropertyList>
+	<!-- Define UK WWI Museum and Aerodrome Stows Maries for WWI mod as boxes within given latitude/longitude -->
+
+       <name>UK_WWI_Aerodrome</name>
+  <area>
+    <lon1>0.5</lon1>
+    <lon2>0.7</lon2>
+    <lat1>51.3</lat1>
+    <lat2>51.9</lat2>
+  </area>
+
+  <condition>
+    <equals>
+      <property>sim/startup/season</property>
+      <value>summer</value>
+    </equals>
+  </condition>
+
+    <material>
+    <effect>Effects/cropgrass</effect>
+    <name>GolfCourse</name>
+    <name>CropGrass</name>
+    <texture-set>
+    <texture>Terrain/cropgrass-hires-autumn.png</texture>
+    <texture n="10">Terrain/cropgrass-hires.png</texture>
+    </texture-set>
+    <parameters>
+    <grit_alpha>0.10</grit_alpha>
+    <hires_overlay_bias>0.17</hires_overlay_bias>
+    </parameters>
+    <xsize>2500</xsize>
+    <ysize>2500</ysize>
+    <light-coverage>2200000.0</light-coverage>
+    <diffuse>
+    <r>0.93</r>
+    <g>0.95</g>
+    <b>0.93</b>
+    <a>1.0</a>
+    </diffuse>
+    <specular>
+    <r>0.1</r>
+    <g>0.12</g>
+    <b>0.1</b>
+    <a>1.0</a>
+    </specular>
+    <shininess>1.12</shininess>
+    <solid>1</solid>
+    <friction-factor>0.7</friction-factor>
+    <rolling-friction>0.1</rolling-friction>
+    <bumpiness>0.1</bumpiness>
+    <load-resistance>1e30</load-resistance>
+    </material>
+
+</PropertyList>
