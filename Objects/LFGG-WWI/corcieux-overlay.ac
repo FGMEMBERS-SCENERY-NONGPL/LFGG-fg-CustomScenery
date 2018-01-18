@@ -1,0 +1,22 @@
+AC3Db
+MATERIAL "ac3dmat1" rgb 1 0.749 0.741  amb 0.2 0.2 0.2  emis 0 0 0  spec 0.502 0.502 0.502  shi 10  trans 0.608
+OBJECT world
+kids 1
+OBJECT poly
+name "rect"
+loc 36.6978 5.98706 -3.04779
+texture "osg.corcieux.png"
+numvert 4
+-200.546 0 -172.885
+200.546 0 -172.885
+200.546 0 172.885
+-200.546 0 172.885
+numsurf 1
+SURF 0x20
+mat 0
+refs 4
+3 0 0
+2 1 0
+1 1 1
+0 0 1
+kids 0
