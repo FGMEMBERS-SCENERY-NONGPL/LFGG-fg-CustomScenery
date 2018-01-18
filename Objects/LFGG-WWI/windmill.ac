@@ -4,7 +4,7 @@ OBJECT world
 kids 2
 OBJECT poly
 name "strWindmill2"
-loc 1.9175 8.85149 20.5041
+loc -2.90067 9.66297 20.5041
 texture "windmill.png"
 numvert 12
 4.89158 12.5942 -1.71052
@@ -118,7 +118,7 @@ refs 3
 kids 0
 OBJECT poly
 name "windmillblades"
-loc 4.91817 -0.711481 0.1
+loc 0.1 0.1 0.1
 texture "windmill.png"
 numvert 60
 -5.10264 16.8596 18.2568
