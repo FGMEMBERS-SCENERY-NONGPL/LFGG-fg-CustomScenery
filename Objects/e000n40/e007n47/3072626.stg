@@ -22,6 +22,6 @@ OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.5623358 47.7542469 232.14 73.8
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.5634441 47.7568272 226.23 73.95
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.5645412 47.7593995 227.29 73.2
 OBJECT_SHARED Models/Power/generic_pylon_50m.ac 7.5679198 47.7665592 236.11 72.4
-OBJECT_STATIC de_bw_hochblauen_hotel.ac 7.7024123 47.7759025 1122.32 6
-OBJECT_STATIC de_bw_hochblauen_tower.ac 7.700792 47.7774943 1160.89 0
-OBJECT_STATIC de_bw_hochblauen_tvtower.ac 7.7015659 47.7771442 1147.8 0
+OBJECT_STATIC ../../LFGG-WWI/de_bw_hochblauen_hotel.ac 7.7024123 47.7759025 1122.32 6
+OBJECT_STATIC ../../LFGG-WWI/de_bw_hochblauen_tower.ac 7.700792 47.7774943 1160.89 0
+OBJECT_STATIC ../../LFGG-WWI/de_bw_hochblauen_tvtower.ac 7.7015659 47.7771442 1147.8 0
